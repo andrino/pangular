@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'pangular';
+  nombre = 'Juan Mauricio';
+  apellido = 'Andrino Valencia';
 }

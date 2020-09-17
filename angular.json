@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pangular"
+    }
+  },
+  "defaultProject": "pangular",
+  "cli": {
+    "analytics": "9455f92f-26dd-4eee-9239-1fdaa5a95864"
+  }
 }
